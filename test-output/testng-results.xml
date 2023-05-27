@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-06T09:39:31 IST" name="Suite" finished-at="2022-07-06T09:39:43 IST" duration-ms="11735">
+    <groups>
+    </groups>
+    <test started-at="2022-07-06T09:39:31 IST" name="Test" finished-at="2022-07-06T09:39:43 IST" duration-ms="11735">
+      <class name="TestCase.TC_001_AddEmployee">
+        <test-method is-config="true" signature="browserSetUp(java.lang.String)[pri:0, instance:TestCase.TC_001_AddEmployee@6cd28fa7]" started-at="2022-07-06T09:39:31 IST" name="browserSetUp" finished-at="2022-07-06T09:39:43 IST" duration-ms="11664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+      </class> <!-- TestCase.TC_001_AddEmployee -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
