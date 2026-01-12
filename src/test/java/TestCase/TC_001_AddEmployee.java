@@ -15,7 +15,7 @@ public class TC_001_AddEmployee extends BaseClass {
 	
 	public homePage homepage;
 	public Login loginpage;
-	public PIM_Page pimpage;
+	private PIM_Page pimpage;
 		
 	@BeforeMethod	
 	public void preconditions() 
