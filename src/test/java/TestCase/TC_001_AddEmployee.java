@@ -14,7 +14,7 @@ import base.BaseClass;
 public class TC_001_AddEmployee extends BaseClass {
 	
 	public homePage homepage;
-	public Login loginpage;
+	private Login loginpage;
 	private PIM_Page pimpage;
 		
 	@BeforeMethod	
