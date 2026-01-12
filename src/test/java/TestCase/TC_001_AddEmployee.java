@@ -13,7 +13,7 @@ import base.BaseClass;
 
 public class TC_001_AddEmployee extends BaseClass {
 	
-	public homePage homepage;
+	private homePage homepage;
 	public Login loginpage;
 	public PIM_Page pimpage;
 		
